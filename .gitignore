@@ -1,7 +1,2 @@
 *.out
 *.exe
-*.sqlite3
-# virtual environments
-env/
-# dependencies
-node_modules/

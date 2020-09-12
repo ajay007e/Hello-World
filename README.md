@@ -16,33 +16,39 @@ $ ./a.out
 ```
 <br/>
 
-**3.** *[Go](https://golang.org/)* <br/>
+**3.** *[Dart](https://dart.dev/)* <br/>
+```console
+$ dart helloworld.dart
+```
+<br/>
+
+**4.** *[Go](https://golang.org/)* <br/>
 ```console
 $ go build helloworld.go
 $ ./helloworld
 ```
 <br/>
 
-**4.** *[HTML](https://html.com/) (Not a programming language)* <br/>
+**5.** *[HTML](https://html.com/) (Not a programming language)* <br/>
 ```console
 $ google-chrome helloworld.html
 ```
 <br/>
 
-**5.** *[Java](https://www.java.com/en/)* <br/>
+**6.** *[Java](https://www.java.com/en/)* <br/>
 ```console
 $ javac helloworld.java
 $ java helloworld
 ```
 <br/>
 
-**6.** *[JavaScript](https://www.javascript.com/)* <br/>
+**7.** *[JavaScript](https://www.javascript.com/)* <br/>
 ```console
 $ node helloworld.js
 ```
 <br/>
 
-**7.** *[Python](https://www.python.org/)* <br/>
+**8.** *[Python](https://www.python.org/)* <br/>
 ```console
 $ python3 helloworld.py
 ```
